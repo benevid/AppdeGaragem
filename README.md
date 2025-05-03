@@ -6,8 +6,7 @@ Entre no meu canal do Youtube: https://www.youtube.com/channel/UCi7gBAP6aJ4a9hkl
 
 ## Link do Projeto no Whisical
 
-https://whimsical.com/labprog-cargarage-C1edcie3A8uvoBk46UHwC9
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/C1edcie3A8uvoBk46UHwC9"></iframe>
+[Veja o diagrama no Whimsical](https://whimsical.com/labprog-cargarage-C1edcie3A8uvoBk46UHwC9)
 
 ## Código-fonte e funções utilizadas no projeto
 
