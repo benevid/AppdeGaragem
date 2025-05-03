@@ -4,7 +4,10 @@ Nesta série de vídeos, você acompanha passo a passo o desenvolvimento de um a
 
 Entre no meu canal do Youtube: https://www.youtube.com/channel/UCi7gBAP6aJ4a9hklch_a1zw
 
+## Link do Projeto no Whisical
 
+https://whimsical.com/labprog-cargarage-C1edcie3A8uvoBk46UHwC9
+<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/C1edcie3A8uvoBk46UHwC9"></iframe>
 
 ## Código-fonte e funções utilizadas no projeto
 
