@@ -42,10 +42,12 @@ from
   /// MODIFY CODE ONLY ABOVE THIS LINE
 ```
 
-Sobre o autor:
-Sou o Prof. Benevid Felix, docente da Universidade do Estado de Mato Grosso (UNEMAT), Campus de Sinop/MT. Leciono disciplinas de programação como C, Python, Automação com Inteligência Artificial e desenvolvimento com ferramentas Low Code. Possuo Mestrado pela PUCRS e Doutorado pela UFPR. Atuo na área de computação desde 2002 e sou entusiasta da cultura maker, com experiência em projetos de hardware utilizando ESP32, modelagem e impressão 3D, entre outros.
+## Sobre o autor:
+Sou o Prof. Benevid Felix, docente da Universidade do Estado de Mato Grosso (UNEMAT), Campus de Sinop/MT. 
+Leciono disciplinas de programação como C, Python, Automação com Inteligência Artificial e desenvolvimento com ferramentas Low Code. Possuo Mestrado pela PUCRS e Doutorado pela UFPR. 
+Atuo na área de computação desde 2002 e sou entusiasta da cultura maker, com experiência em projetos de hardware utilizando ESP32, modelagem e impressão 3D, entre outros.
 
-Minhas redes sociais:
+## Minhas redes sociais:
 Instagram: https://instagram.com/benevid
 GitHub: https://github.com/benevid
 LinkedIn: https://linkedin.com/in/benevid
