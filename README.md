@@ -48,8 +48,8 @@ Leciono disciplinas de programação como C, Python, Automação com Inteligênc
 Atuo na área de computação desde 2002 e sou entusiasta da cultura maker, com experiência em projetos de hardware utilizando ESP32, modelagem e impressão 3D, entre outros.
 
 ## Minhas redes sociais:
-Instagram: https://instagram.com/benevid
-GitHub: https://github.com/benevid
-LinkedIn: https://linkedin.com/in/benevid
-Facebook: https://facebook.com/benevid
-X (Twitter): https://x.com/benevid
+- Instagram: https://instagram.com/benevid
+- GitHub: https://github.com/benevid
+- LinkedIn: https://linkedin.com/in/benevid
+- Facebook: https://facebook.com/benevid
+- X (Twitter): https://x.com/benevid
